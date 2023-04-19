@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fischl05&show_icons=true&theme=prussian)
 
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooktkkjoo20)](https://solved.ac/jooktkkjoo20)
- [![mazandi profile](http://mazandi.herokuapp.com/api?handle=jooktkkjoo20&theme=warm)](https://solved.ac/jooktkkjoo20)
+ [![mazandi profile](http://mazandi.herokuapp.com/api?handle=jooktkkjoo20&theme=basic)](https://solved.ac/jooktkkjoo20)
 
 # Mail
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jooktkkjoo20@gmail.com)
