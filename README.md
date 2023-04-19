@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fischl05&show_icons=true&theme=prussian)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooktkkjoo20)](https://solved.ac/jooktkkjoo20/)
-
-<img src="https://ghchart.rshah.org/fischl05" />
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=movegreen)](https://solved.ac/fischl05)
+ [![mazandi profile](http://mazandi.herokuapp.com/api?handle=movegreen&theme=green)](https://solved.ac/fischl05)
 
 # Mail
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jooktkkjoo20@gmail.com)
