@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   [![mazandi profile](http://mazandi.herokuapp.com/api?handle=jooktkkjoo20&theme=basic)](https://solved.ac/profile/jooktkkjoo20)  
 
 # Mail
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jooktkkjoo20@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:mimsenjoo20@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jooktkkjoo20@gmail.com)](mailto:jooktkkjoo20@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:mimsenjoo20@naver.com)](mailto:mimsenjoo20@naver.com)
